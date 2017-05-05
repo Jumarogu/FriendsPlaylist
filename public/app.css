@@ -1,0 +1,27 @@
+body {
+	background: #fafafa;
+	color: #125688;
+	font-family: Montserrat;
+
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+main {
+	flex: 1 0 auto;
+}
+footer {
+	font-size: .8em;
+}
+.login-box, 
+.playlist-box,
+.join-box {
+	background-color: white;
+	border: 1px solid #edeeee;
+	border-radius: 3px;
+	padding: 10px 0;
+	text-align: center;
+}
+.button-get-playlist {
+
+}
